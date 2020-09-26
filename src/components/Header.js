@@ -13,8 +13,7 @@ const Header = () => {
                     All Streams
                 </Link>
 
-                
-                    <GoogleAuth />
+                <GoogleAuth />
                 
             </div>
         </div>
